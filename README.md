@@ -15,12 +15,24 @@
 - Examples of programs using full disclosure of some or all reports:
     - [GitLab](https://hackerone.com/gitlab/hacktivity)
     - [Shopify](https://hackerone.com/shopify/hacktivity)
+    - [Brave Software](https://hackerone.com/brave/hacktivity)
 - Examples of programs using limited disclosure of some or all reports:
     - [GitHub](https://hackerone.com/github/hacktivity)
+    - [Cloudflare](https://hackerone.com/cloudflare/hacktivity)
+    - [Rockstar Games](https://hackerone.com/rockstargames/hacktivity)
+    - [TikTok](https://hackerone.com/tiktok/hacktivity)
 
 ## Relationships
 - [Example researcher spotlight articles](https://github.blog/?s=cybersecurity+spotlight)
 - [Case study for adversarial conversation](https://bitbucket.org/snakeyaml/snakeyaml/issues/561/cve-2022-1471-vulnerability-in)`*`
+
+## Hacker Education
+- [HackerOne's CTF which provides invites to private programs as you continue to find flags](https://ctf.hacker101.com/)
+- [Burpsuite Academy - great resource for learning material on OWASP top 10](https://portswigger.net/web-security)
+- [TryHackMe WebAppSec 101 path](https://tryhackme.com/room/webappsec101)
+- Youtube channels that can help with growing one's Application security knowledge:
+  - [Absolute AppSec](https://www.youtube.com/c/AbsoluteAppSec)
+  - [DefCon talks](https://www.youtube.com/user/DEFCONConference/videos)
 
 ## Other resources
 - [Bug Bounty Forum](https://bugbountyforum.com/)
