@@ -26,6 +26,14 @@
 - [Example researcher spotlight articles](https://github.blog/?s=cybersecurity+spotlight)
 - [Case study for adversarial conversation](https://bitbucket.org/snakeyaml/snakeyaml/issues/561/cve-2022-1471-vulnerability-in)`*`
 
+## Hacker Education
+- [HackerOne's CTF which provides invites to private programs as you continue to find flags](https://ctf.hacker101.com/)
+- [Burpsuite Academy - great resource for learning material on OWASP top 10](https://portswigger.net/web-security)
+- [TryHackMe WebAppSec 101 path](https://tryhackme.com/room/webappsec101)
+- Youtube channels that can help with growing one's Application security knowledge:
+  - [Absolute AppSec](https://www.youtube.com/c/AbsoluteAppSec)
+  - [DefCon talks](https://www.youtube.com/user/DEFCONConference/videos)
+
 ## Other resources
 - [Bug Bounty Forum](https://bugbountyforum.com/)
 - [Shopify's Bug Bounty CVSS payout calculator](https://shopify.github.io/appsec/cvss_calculator/) `*`
