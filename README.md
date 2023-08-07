@@ -15,8 +15,12 @@
 - Examples of programs using full disclosure of some or all reports:
     - [GitLab](https://hackerone.com/gitlab/hacktivity)
     - [Shopify](https://hackerone.com/shopify/hacktivity)
+    - [Brave Software](https://hackerone.com/brave/hacktivity)
 - Examples of programs using limited disclosure of some or all reports:
     - [GitHub](https://hackerone.com/github/hacktivity)
+    - [Cloudflare](https://hackerone.com/cloudflare/hacktivity)
+    - [Rockstar Games](https://hackerone.com/rockstargames/hacktivity)
+    - [TikTok](https://hackerone.com/tiktok/hacktivity)
 
 ## Relationships
 - [Example researcher spotlight articles](https://github.blog/?s=cybersecurity+spotlight)
