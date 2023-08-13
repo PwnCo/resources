@@ -32,7 +32,7 @@
 - [TryHackMe WebAppSec 101 path](https://tryhackme.com/room/webappsec101)
 - Youtube channels that can help with growing one's Application security knowledge:
   - [Absolute AppSec](https://www.youtube.com/c/AbsoluteAppSec)
-  - [DefCon talks](https://www.youtube.com/user/DEFCONConference/videos)
+  - [DEFCON talks](https://www.youtube.com/user/DEFCONConference/videos)
 
 ## Other resources
 - [Bug Bounty Forum](https://bugbountyforum.com/)
