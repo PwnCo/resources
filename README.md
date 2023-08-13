@@ -40,8 +40,14 @@
 - [Zoom's Bug Bounty VISS calculator (Beta)](https://viss.zoom.com/calculator#VISS:0.1;T:10/I:10/D:10;PLI:NA/ICI:N/III:N/IAI:N/ITN:NA/STN:NA/DTN:NA/TIM:N/DCI:N/DII:N/DAI:N/DCL:N/UCI:NA) `*`
     - [Supporting documentation](https://viss.zoom.com/specifications)
     
-## Our talks
+## Our other talks
 - [BSides SF 2023 - Life of a Bug](https://www.youtube.com/watch?v=C2EU_Gg7IHE)
 - [NorthSec 2023 - Behind the scenes in GitHub Bug Bounty](https://www.youtube.com/watch?v=ge67z-YxjIA&t=27135s)
+- [AppSec Village @ DEFCON 31 - Scoping for Success]() (coming soon) - [Slides](slides/scoping_for_success_de
+fcon31_appsec_village.pdf)
+
+## Socials
+- LinkedIn - [Logan](https://www.linkedin.com/in/loganmaclaren/) [Jeff](https://www.linkedin.com/in/jeffrey-guerra/)
+- Twitter/X & Mastodon - [Logan](https://infosec.exchange/@gill3tt3) [Jeff](https://twitter.com/s2jeff_gh)
 
 `*` Not specifically endorsed or directly involved, but excellent demonstration of the subject.
