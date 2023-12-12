@@ -43,7 +43,7 @@
 ## Our other talks
 - [BSides SF 2023 - Life of a Bug](https://www.youtube.com/watch?v=C2EU_Gg7IHE)
 - [NorthSec 2023 - Behind the scenes in GitHub Bug Bounty](https://www.youtube.com/watch?v=ge67z-YxjIA&t=27135s)
-- [AppSec Village @ DEFCON 31 - Scoping for Success]() (coming soon)
+- [AppSec Village @ DEFCON 31 - Scoping for Success](https://www.youtube.com/watch?v=OCKVjwLh8Hk)
   - [Slides](slides/scoping_for_success_defcon31_appsec_village.pdf)
 
 ## Socials
